@@ -3,11 +3,7 @@
   "version": "0.1.0",
   "description": ":skull: Unopiniated skeleton for front-end application building ft. React, ES2015, Browserify",
   "main": "src/app.js",
-  "scripts": {
-    "test": "jest"
-  },
   "keywords": [
-    "console",
     "react"
   ],
   "author": "Accommodavid",
