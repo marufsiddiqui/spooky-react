@@ -1,4 +1,4 @@
-# spooky react
+![spooky react](https://cloud.githubusercontent.com/assets/6472410/11449064/31854596-9569-11e5-9459-191da338e462.jpeg)
 
 :jack_o_lantern: It's time for Halloween kids! And you know what that means!
 
